@@ -1,0 +1,19 @@
+{
+    "name": "MMA.Android",
+    "rootNamespace": "",
+    "references": [
+        "GUID:802cda87e14734b9bb05c37c9cd64a18"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
